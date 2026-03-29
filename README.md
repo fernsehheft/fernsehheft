@@ -7,7 +7,7 @@ I'm a passionate developer from **Germany** who loves writing code and solving p
 ---
 
 ###  About Me
--  I’m currently working on **[Lux Client](https://github.com/LuxClient/Lux-Client)**
+-  I’m currently working on **[Lux Client](https://github.com/Lux-Client/LuxClient)**
 -  I’m currently learning **Rust**
 -  Ask me about **Coding Orders**
 -  How to reach me: **DC: Fernsehheft**
