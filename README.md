@@ -38,5 +38,4 @@ I'm a passionate developer from **Germany** who loves writing code and solving p
 
 ###  Connect with me
 
-[![Discord](https://img.shields.io/badge/Discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white)](https://www.pluginhub.de/discord.html](https://discord.gg/zkduHszK2e)
-
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zkduHszK2e)
