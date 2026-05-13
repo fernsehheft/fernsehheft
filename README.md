@@ -7,7 +7,7 @@ I'm a passionate developer from **Germany** who loves writing code and solving p
 ---
 
 ###  About Me
--  I’m currently working on **[Lux Client](https://github.com/Lux-Client/LuxClient)**
+-  I’m currently working on an Secret Project
 -  I’m currently learning **Rust**
 -  Ask me about **Coding Orders**
 -  How to reach me: **DC: Fernsehheft**
@@ -38,4 +38,4 @@ I'm a passionate developer from **Germany** who loves writing code and solving p
 
 ###  Connect with me
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zkduHszK2e)
+Dm: Fernsehheft
